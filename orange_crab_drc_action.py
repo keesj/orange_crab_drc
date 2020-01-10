@@ -9,7 +9,7 @@ import os
 import logging
 import sys
 
-from pad2pad_track_distance import Distance
+from .pad2pad_track_distance import Distance
 
 # https://docs.kicad-pcb.org/doxygen/md_Documentation_development_pcbnew-plugins.html
 
